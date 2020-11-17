@@ -1,7 +1,5 @@
 ## desktop view
 ![alt text](sample.PNG)
-## mobile view
-![alt text](sample2.PNG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
