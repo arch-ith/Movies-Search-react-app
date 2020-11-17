@@ -19,7 +19,7 @@ function App() {
           fetch(`https://imdb-internet-movie-database-unofficial.p.rapidapi.com/search/${query}`, {
           "method": "GET",
           "headers": {
-            "x-rapidapi-key": "569a91fe2fmsh11d6983cd338aa0p1f82f0jsn66f14706d30d",
+            "x-rapidapi-key": "",
             "x-rapidapi-host": "imdb-internet-movie-database-unofficial.p.rapidapi.com"
           }
         })
